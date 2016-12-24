@@ -12,6 +12,7 @@
 		1114ABBA1E0EBFC100FB167C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1114ABB81E0EBFC100FB167C /* Main.storyboard */; };
 		1114ABBC1E0EBFC100FB167C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1114ABBB1E0EBFC100FB167C /* Assets.xcassets */; };
 		1114ABBF1E0EBFC100FB167C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1114ABBD1E0EBFC100FB167C /* LaunchScreen.storyboard */; };
+		112254C81E0EC46700340594 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 112254C71E0EC46700340594 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1114ABBB1E0EBFC100FB167C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1114ABBE1E0EBFC100FB167C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1114ABC01E0EBFC100FB167C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		112254C71E0EC46700340594 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				1114ABB61E0EBFC100FB167C /* ViewController.swift */,
 				1114ABB81E0EBFC100FB167C /* Main.storyboard */,
 				1114ABBB1E0EBFC100FB167C /* Assets.xcassets */,
+				112254C71E0EC46700340594 /* pokemon.csv */,
 				1114ABBD1E0EBFC100FB167C /* LaunchScreen.storyboard */,
 				1114ABC01E0EBFC100FB167C /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				1114ABBF1E0EBFC100FB167C /* LaunchScreen.storyboard in Resources */,
 				1114ABBC1E0EBFC100FB167C /* Assets.xcassets in Resources */,
+				112254C81E0EC46700340594 /* pokemon.csv in Resources */,
 				1114ABBA1E0EBFC100FB167C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				1114ABC51E0EBFC100FB167C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
